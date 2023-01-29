@@ -1,0 +1,19 @@
+*
+{
+    
+    font-family:cursive;
+    background-color:black;
+}
+h2{
+    text-transform:uppercase;
+    color:#0B698B;
+    font-weight: bold;
+    font-family:cursive;
+    font-size: 30px;;
+}
+p
+{
+    color:white;
+    text-shadow: 2px 4px 8px solid;
+    
+}
